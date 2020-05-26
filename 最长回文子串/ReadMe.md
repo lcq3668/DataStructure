@@ -1,6 +1,6 @@
 本题用动态规划解决
 
-设 $$c[i][j]$$ 有两种取值：True and False。当`$c[i][j]$` 是 True 时,表示子串`$s_{i,j}$`是 回文;当`$c[i][j]$` 是 False 时,表示子串`$s_{i,j}$` 不是 回文。
+设 `$c[i][j]$` 有两种取值：True and False。当`$c[i][j]$` 是 True 时,表示子串`$s_{i,j}$`是 回文;当`$c[i][j]$` 是 False 时,表示子串`$s_{i,j}$` 不是 回文。
 
 `$
 c[i][j]=\begin{cases}
