@@ -1,5 +1,6 @@
 #include<string.h>
 #include"LPS.h"
+#include<stdlib.h>
 #define False '0'
 #define True '1'
 char * longestPalindrome(char * s){
