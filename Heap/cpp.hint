@@ -1,0 +1,2 @@
+#define LIST_FOR_EACH_ENTRY(arg1, arg2, arg3)
+#define LIST_FOR_EACH_ENTRY_SAFE(arg1, arg2, arg3, arg4)
